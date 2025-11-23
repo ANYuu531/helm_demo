@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://your.git.repo/helm-gitops-argocd-sample.git
+    repoURL: https://github.com/ANYuu531/helm_demo.git
     targetRevision: HEAD
     path: helm-chart/nginx
     helm:
